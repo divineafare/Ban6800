@@ -1,0 +1,501 @@
+Product_ID,Category,Price,Competitor_Price,Demand,Price_Elasticity,Customer_Rating,Promotion,Seasonality,Stock_Availability,Region,Profit_Margin
+P0001,Apparel,460.16,304.83,142,-0.06,4.9,No,Yes,In Stock,South America,8.58
+P0002,Apparel,193.63,347.81,905,-0.83,1.5,Yes,Yes,Out of Stock,North America,18.12
+P0003,Home Appliances,93.17,53.81,933,-0.05,1.4,No,Yes,In Stock,Africa,22.37
+P0004,Home Appliances,301.77,269.21,928,-1.54,1.4,No,Yes,Out of Stock,Africa,35.75
+P0005,Grocery,248.92,462.44,990,-0.18,4.8,Yes,Yes,In Stock,Europe,18.77
+P0006,Electronics,129.41,366.76,380,-1.58,1.7,Yes,Yes,In Stock,Asia,31.21
+P0007,Grocery,50.02,213.17,275,-0.36,4.6,Yes,No,In Stock,North America,6.72
+P0008,Grocery,315.72,206.57,659,-1.91,4.6,Yes,Yes,In Stock,Africa,39.85
+P0009,Grocery,145.84,206.05,802,-1.77,3.8,No,Yes,Out of Stock,North America,39.84
+P0010,Electronics,216.59,193.17,340,-0.55,1.5,No,No,Out of Stock,North America,5.76
+P0011,Books,246.4,333.31,352,-1.92,4.7,Yes,Yes,Out of Stock,South America,24.37
+P0012,Books,407.77,467.5,814,-1.53,4.0,Yes,Yes,Out of Stock,Asia,23.65
+P0013,Grocery,135.53,71.23,599,-1.94,3.5,No,No,In Stock,Asia,6.33
+P0014,Apparel,453.7,13.84,547,-0.34,1.8,Yes,Yes,In Stock,Europe,22.37
+P0015,Electronics,65.32,153.03,629,-0.65,3.9,Yes,No,In Stock,Africa,25.77
+P0016,Books,468.36,29.84,925,-1.78,4.4,Yes,Yes,In Stock,North America,38.41
+P0017,Books,301.48,131.42,188,-1.86,3.5,No,Yes,In Stock,Asia,44.44
+P0018,Electronics,128.04,28.67,323,-1.3,1.9,No,No,Out of Stock,North America,26.65
+P0019,Grocery,426.55,470.62,327,-1.55,4.8,No,Yes,Out of Stock,Asia,23.2
+P0020,Electronics,80.0,177.12,413,-1.96,1.4,Yes,No,In Stock,South America,33.29
+P0021,Apparel,170.3,327.98,950,-0.28,3.4,No,No,Out of Stock,Asia,41.92
+P0022,Apparel,124.92,498.37,521,-1.38,4.1,No,Yes,In Stock,North America,18.69
+P0023,Home Appliances,107.42,243.03,863,-1.01,4.4,No,No,In Stock,Africa,39.64
+P0024,Books,495.06,44.37,510,-0.76,2.8,Yes,Yes,Out of Stock,South America,27.59
+P0025,Electronics,370.64,117.12,95,-0.9,1.0,Yes,No,Out of Stock,North America,7.95
+P0026,Books,354.85,214.21,259,-1.88,2.0,Yes,Yes,In Stock,Asia,18.25
+P0027,Electronics,244.79,353.4,618,-0.65,2.6,No,Yes,In Stock,Europe,23.15
+P0028,Grocery,452.8,181.25,544,-1.03,1.7,Yes,No,In Stock,Asia,48.0
+P0029,Books,283.74,491.37,564,-0.16,4.8,Yes,No,In Stock,Europe,29.3
+P0030,Electronics,185.5,107.62,634,-0.07,2.1,Yes,Yes,In Stock,Asia,42.77
+P0031,Home Appliances,183.45,461.09,421,-1.54,1.3,No,Yes,Out of Stock,Europe,18.47
+P0032,Apparel,376.7,278.3,507,-1.88,4.4,No,No,In Stock,North America,5.15
+P0033,Grocery,445.58,369.04,175,-0.59,4.6,No,No,In Stock,Asia,20.71
+P0034,Books,166.55,370.16,753,-0.71,3.2,Yes,Yes,Out of Stock,Africa,45.48
+P0035,Apparel,313.4,362.91,197,-0.32,1.3,Yes,No,In Stock,Africa,10.97
+P0036,Books,45.33,312.01,357,-1.67,2.6,No,No,In Stock,Asia,29.55
+P0037,Electronics,485.89,204.27,388,-1.41,1.3,No,Yes,In Stock,Asia,33.6
+P0038,Books,220.43,192.51,605,-1.62,1.5,Yes,Yes,Out of Stock,Europe,31.53
+P0039,Grocery,41.04,484.24,151,-1.05,4.4,Yes,No,In Stock,Europe,6.85
+P0040,Electronics,447.91,215.84,571,-1.88,3.0,No,Yes,Out of Stock,Africa,46.45
+P0041,Home Appliances,181.62,91.77,793,-1.85,1.1,Yes,No,Out of Stock,Europe,21.41
+P0042,Home Appliances,294.99,110.57,576,-0.06,1.7,Yes,No,In Stock,North America,24.55
+P0043,Books,148.52,257.02,101,-1.02,4.9,Yes,Yes,In Stock,Asia,19.66
+P0044,Home Appliances,365.59,267.75,972,-0.59,4.0,Yes,Yes,In Stock,Europe,8.36
+P0045,Books,144.06,450.44,550,-0.72,4.3,No,Yes,In Stock,North America,22.07
+P0046,Apparel,127.4,193.5,418,-1.56,2.4,No,No,In Stock,Asia,47.0
+P0047,Electronics,57.82,86.92,873,-0.78,3.8,No,Yes,In Stock,Europe,14.64
+P0048,Apparel,187.24,38.12,565,-1.01,4.8,No,No,Out of Stock,North America,25.45
+P0049,Home Appliances,164.09,473.15,967,-0.56,4.9,No,No,Out of Stock,North America,8.17
+P0050,Apparel,51.6,383.53,636,-0.64,3.2,Yes,Yes,In Stock,Africa,27.87
+P0051,Grocery,294.07,103.55,212,-1.76,1.2,No,Yes,Out of Stock,Europe,22.86
+P0052,Apparel,196.79,67.72,814,-0.08,2.9,No,No,Out of Stock,North America,11.66
+P0053,Apparel,314.82,319.6,119,-0.01,4.8,No,Yes,Out of Stock,North America,5.31
+P0054,Home Appliances,353.56,157.72,705,-1.72,3.6,No,No,In Stock,Asia,10.01
+P0055,Home Appliances,268.16,409.29,610,-1.56,2.9,No,Yes,In Stock,South America,12.39
+P0056,Books,443.95,129.9,773,-1.01,3.4,No,No,Out of Stock,North America,27.76
+P0057,Books,101.75,323.52,143,-1.08,2.6,Yes,No,Out of Stock,Europe,24.3
+P0058,Home Appliances,344.29,60.97,197,-0.07,4.3,No,Yes,Out of Stock,Europe,18.62
+P0059,Home Appliances,330.56,211.6,281,-1.19,2.4,No,No,In Stock,Europe,21.32
+P0060,Grocery,102.55,302.52,409,-0.51,1.6,Yes,Yes,Out of Stock,Europe,39.47
+P0061,Home Appliances,257.27,260.03,463,-0.31,1.5,Yes,No,Out of Stock,Africa,48.98
+P0062,Books,285.35,114.68,630,-0.63,4.6,Yes,Yes,Out of Stock,South America,39.99
+P0063,Electronics,37.78,326.01,860,-0.58,2.7,No,No,In Stock,Africa,38.39
+P0064,Apparel,257.24,274.31,963,-1.57,2.5,Yes,Yes,In Stock,Europe,10.12
+P0065,Grocery,231.56,287.29,260,-1.94,2.6,No,Yes,In Stock,North America,43.43
+P0066,Electronics,476.74,118.51,786,-1.45,1.1,Yes,No,In Stock,South America,37.58
+P0067,Electronics,320.56,341.47,424,-0.54,5.0,No,No,In Stock,Asia,8.34
+P0068,Grocery,404.48,139.25,911,-0.75,3.0,No,Yes,In Stock,Europe,34.26
+P0069,Home Appliances,235.64,76.72,254,-0.81,3.5,Yes,Yes,In Stock,Africa,5.75
+P0070,Electronics,155.01,131.99,213,-1.72,3.9,Yes,No,Out of Stock,Asia,46.5
+P0071,Home Appliances,264.79,465.5,671,-1.73,2.1,Yes,No,In Stock,South America,33.22
+P0072,Apparel,40.17,71.84,889,-1.45,1.8,No,Yes,In Stock,South America,46.12
+P0073,Apparel,397.46,179.66,914,-0.3,4.7,Yes,No,Out of Stock,Europe,13.91
+P0074,Electronics,216.41,298.24,518,-0.02,3.1,No,No,In Stock,South America,23.58
+P0075,Grocery,456.0,293.44,830,-0.45,1.4,No,No,In Stock,Europe,14.11
+P0076,Electronics,27.43,411.45,161,-0.25,2.2,Yes,Yes,Out of Stock,Europe,34.89
+P0077,Home Appliances,408.1,257.78,812,-0.58,3.6,Yes,Yes,In Stock,Africa,41.79
+P0078,Electronics,164.53,48.68,336,-0.76,4.2,Yes,No,Out of Stock,Asia,13.81
+P0079,Apparel,377.98,175.94,499,-1.74,4.3,No,Yes,In Stock,Asia,25.99
+P0080,Home Appliances,160.59,226.91,653,-1.51,1.2,No,Yes,In Stock,Europe,18.92
+P0081,Electronics,306.51,430.27,614,-1.0,1.1,Yes,No,Out of Stock,South America,42.99
+P0082,Home Appliances,376.91,236.76,481,-0.85,2.3,No,Yes,Out of Stock,Africa,23.02
+P0083,Electronics,276.9,17.41,53,-0.19,3.5,Yes,No,In Stock,North America,31.06
+P0084,Home Appliances,341.47,97.91,984,-1.19,4.6,No,Yes,Out of Stock,Europe,42.63
+P0085,Apparel,304.72,350.42,234,-1.27,3.0,Yes,No,Out of Stock,South America,30.32
+P0086,Electronics,279.25,212.35,167,-0.19,4.8,Yes,Yes,In Stock,North America,31.47
+P0087,Grocery,498.35,118.11,533,-0.77,4.0,No,Yes,In Stock,North America,24.85
+P0088,Grocery,203.01,156.41,583,-1.51,2.6,Yes,No,In Stock,North America,39.1
+P0089,Grocery,398.87,453.72,420,-0.54,3.3,Yes,No,In Stock,North America,34.55
+P0090,Grocery,464.08,466.02,842,-0.81,2.8,Yes,Yes,In Stock,South America,47.69
+P0091,Home Appliances,400.98,340.82,30,-0.76,4.8,No,No,In Stock,Africa,32.19
+P0092,Electronics,268.05,156.19,603,-1.68,4.6,Yes,No,In Stock,South America,24.48
+P0093,Apparel,360.12,210.7,591,-1.89,3.3,No,No,Out of Stock,Africa,29.82
+P0094,Grocery,30.26,425.46,209,-1.28,4.9,No,Yes,In Stock,South America,46.9
+P0095,Home Appliances,415.13,372.68,948,-0.87,1.3,No,Yes,In Stock,Europe,21.39
+P0096,Apparel,313.13,430.36,921,-0.7,4.5,No,No,Out of Stock,North America,17.46
+P0097,Grocery,38.02,65.85,290,-1.07,2.1,No,No,In Stock,Asia,48.57
+P0098,Home Appliances,479.17,481.28,196,-1.86,4.8,Yes,No,In Stock,Europe,21.03
+P0099,Electronics,168.82,400.82,37,-0.41,1.7,Yes,Yes,In Stock,South America,31.83
+P0100,Books,287.34,16.75,43,-0.28,1.6,Yes,No,In Stock,North America,34.15
+P0101,Grocery,117.08,28.73,170,-0.84,2.2,Yes,Yes,In Stock,Africa,46.31
+P0102,Grocery,190.06,441.15,713,-1.9,3.2,No,Yes,In Stock,Asia,10.82
+P0103,Electronics,256.8,485.11,368,-1.11,4.5,Yes,No,In Stock,Africa,13.66
+P0104,Electronics,190.98,23.55,441,-0.73,1.4,No,Yes,In Stock,Africa,15.8
+P0105,Apparel,217.23,232.1,816,-0.48,3.2,No,Yes,Out of Stock,Africa,21.86
+P0106,Home Appliances,168.64,76.64,292,-1.69,4.2,No,No,In Stock,Africa,12.55
+P0107,Electronics,177.62,126.59,924,-0.9,1.2,Yes,Yes,In Stock,Asia,42.85
+P0108,Books,418.12,417.5,795,-0.74,4.9,Yes,No,Out of Stock,Europe,5.17
+P0109,Grocery,340.89,123.03,973,-0.46,4.0,No,No,Out of Stock,Europe,31.3
+P0110,Electronics,34.61,86.75,197,-0.51,3.8,Yes,Yes,In Stock,Africa,31.42
+P0111,Electronics,422.33,230.68,729,-1.76,4.9,No,No,Out of Stock,Europe,48.93
+P0112,Home Appliances,233.47,137.46,217,-0.69,5.0,No,No,In Stock,South America,23.67
+P0113,Apparel,17.38,384.39,514,-0.66,3.2,Yes,Yes,In Stock,Africa,30.86
+P0114,Electronics,315.1,418.67,667,-0.08,4.5,Yes,Yes,Out of Stock,Africa,25.08
+P0115,Home Appliances,142.27,406.44,835,-1.15,4.5,Yes,No,In Stock,Asia,23.0
+P0116,Home Appliances,424.67,155.02,125,-0.66,2.1,No,Yes,In Stock,North America,48.04
+P0117,Home Appliances,56.71,94.92,579,-1.89,3.8,No,No,In Stock,South America,20.98
+P0118,Books,433.07,83.63,743,-1.45,2.6,Yes,Yes,In Stock,Asia,28.06
+P0119,Books,75.01,158.27,742,-0.19,3.5,No,No,Out of Stock,North America,33.61
+P0120,Books,472.39,30.37,640,-1.87,1.9,No,Yes,Out of Stock,South America,8.43
+P0121,Home Appliances,199.52,369.55,88,-0.69,2.2,Yes,No,Out of Stock,North America,39.13
+P0122,Grocery,442.76,213.79,627,-0.31,2.2,No,Yes,Out of Stock,South America,32.61
+P0123,Apparel,182.83,480.99,135,-0.63,4.7,Yes,No,In Stock,Asia,26.91
+P0124,Electronics,145.1,477.25,411,-1.56,4.4,No,Yes,Out of Stock,Asia,30.01
+P0125,Apparel,413.01,495.23,432,-1.39,3.9,No,No,Out of Stock,Europe,5.11
+P0126,Apparel,499.07,435.6,573,-1.97,2.2,No,No,In Stock,North America,11.11
+P0127,Home Appliances,398.18,416.17,431,-1.44,2.4,Yes,No,Out of Stock,South America,27.73
+P0128,Home Appliances,5.68,128.53,559,-0.41,2.2,No,Yes,Out of Stock,Africa,45.08
+P0129,Grocery,350.25,253.43,395,-1.63,2.6,Yes,No,In Stock,North America,32.62
+P0130,Grocery,44.21,216.64,72,-1.05,1.2,Yes,No,In Stock,South America,17.79
+P0131,Grocery,415.05,300.11,724,-0.3,2.9,No,Yes,Out of Stock,North America,18.09
+P0132,Grocery,182.67,220.75,149,-0.22,4.9,No,Yes,Out of Stock,North America,23.77
+P0133,Books,389.66,116.35,792,-0.3,2.3,Yes,Yes,In Stock,Europe,29.54
+P0134,Electronics,250.63,153.24,982,-1.86,1.2,No,No,Out of Stock,South America,18.92
+P0135,Electronics,384.26,423.2,459,-0.22,4.8,Yes,Yes,Out of Stock,Europe,28.72
+P0136,Books,66.58,227.14,54,-1.77,2.6,No,Yes,In Stock,Africa,5.33
+P0137,Home Appliances,269.89,283.07,451,-0.89,2.4,Yes,Yes,In Stock,South America,43.15
+P0138,Books,267.32,267.24,585,-1.51,4.7,No,No,Out of Stock,Africa,45.73
+P0139,Grocery,320.8,251.13,943,-1.92,2.6,Yes,Yes,Out of Stock,Europe,14.49
+P0140,Apparel,185.49,52.99,195,-0.57,4.1,Yes,Yes,In Stock,Europe,7.7
+P0141,Grocery,401.24,471.34,609,-1.43,3.9,Yes,Yes,In Stock,Asia,27.71
+P0142,Apparel,254.69,218.12,705,-0.04,2.1,No,Yes,Out of Stock,North America,17.0
+P0143,Electronics,355.59,305.27,284,-1.86,2.3,Yes,No,In Stock,North America,28.37
+P0144,Books,487.5,36.37,879,-0.9,2.4,No,No,In Stock,Asia,39.94
+P0145,Electronics,143.62,100.28,765,-0.48,4.7,Yes,Yes,Out of Stock,Europe,33.4
+P0146,Books,115.45,210.84,28,-1.97,5.0,Yes,No,In Stock,North America,46.32
+P0147,Grocery,62.36,429.11,537,-0.54,4.5,Yes,No,Out of Stock,Asia,32.18
+P0148,Books,202.81,433.5,467,-1.19,4.4,Yes,No,Out of Stock,South America,34.67
+P0149,Home Appliances,150.6,495.32,919,-1.37,4.4,No,No,In Stock,Asia,9.36
+P0150,Electronics,408.17,458.92,157,-1.49,3.1,Yes,Yes,In Stock,Europe,31.15
+P0151,Books,400.17,490.0,134,-1.37,2.5,Yes,No,In Stock,South America,34.62
+P0152,Home Appliances,81.24,173.8,910,-0.1,4.7,No,No,Out of Stock,Europe,43.92
+P0153,Electronics,339.93,376.11,209,-0.08,4.2,Yes,No,Out of Stock,North America,41.65
+P0154,Grocery,418.75,18.88,279,-1.3,1.7,No,Yes,In Stock,Africa,5.08
+P0155,Grocery,346.61,33.71,296,-1.21,3.5,No,No,Out of Stock,Europe,15.3
+P0156,Grocery,195.36,73.47,601,-0.51,1.2,No,No,Out of Stock,Africa,13.28
+P0157,Electronics,267.54,313.66,15,-1.28,3.5,No,Yes,Out of Stock,Africa,7.55
+P0158,Home Appliances,480.99,342.69,287,-0.08,4.9,No,Yes,In Stock,Asia,16.68
+P0159,Apparel,103.27,61.6,684,-0.69,1.0,No,Yes,In Stock,North America,12.46
+P0160,Apparel,435.79,155.85,768,-0.63,2.7,Yes,No,Out of Stock,Africa,7.24
+P0161,Electronics,74.04,60.96,350,-0.69,2.1,No,Yes,Out of Stock,South America,11.57
+P0162,Apparel,479.46,17.63,949,-0.91,2.4,Yes,No,Out of Stock,South America,8.38
+P0163,Electronics,297.46,84.32,984,-0.14,2.1,Yes,No,Out of Stock,South America,32.17
+P0164,Grocery,266.68,253.31,188,-1.72,2.3,No,No,In Stock,Europe,8.83
+P0165,Electronics,50.05,497.97,173,-1.62,4.5,No,Yes,Out of Stock,Asia,36.03
+P0166,Books,377.41,226.69,566,-1.0,1.5,Yes,Yes,In Stock,Europe,29.59
+P0167,Grocery,56.48,444.88,489,-1.62,1.9,No,Yes,In Stock,Europe,9.06
+P0168,Electronics,431.03,38.68,190,-0.88,4.0,No,Yes,Out of Stock,North America,27.15
+P0169,Apparel,230.64,389.1,468,-1.93,1.6,No,Yes,In Stock,South America,44.2
+P0170,Grocery,209.65,219.68,904,-0.15,2.8,No,No,Out of Stock,Africa,47.87
+P0171,Electronics,267.9,367.93,728,-0.89,3.6,Yes,No,In Stock,North America,27.56
+P0172,Books,183.52,73.97,532,-1.59,3.7,Yes,Yes,In Stock,Europe,7.21
+P0173,Home Appliances,118.79,442.34,1000,-0.63,3.6,Yes,Yes,Out of Stock,South America,34.16
+P0174,Apparel,486.68,248.0,644,-1.19,2.9,Yes,Yes,Out of Stock,North America,41.23
+P0175,Grocery,318.96,161.6,963,-0.87,4.5,No,No,Out of Stock,South America,19.71
+P0176,Electronics,120.49,259.52,775,-1.82,1.2,Yes,Yes,In Stock,Asia,29.77
+P0177,Electronics,336.96,178.91,738,-1.19,1.6,Yes,No,In Stock,Europe,29.31
+P0178,Books,207.88,364.23,755,-0.8,3.8,Yes,No,Out of Stock,Europe,43.5
+P0179,Grocery,295.2,317.21,975,-1.94,3.6,No,No,Out of Stock,Europe,41.55
+P0180,Home Appliances,299.19,50.82,401,-0.17,4.6,Yes,Yes,In Stock,South America,47.91
+P0181,Apparel,179.78,236.3,385,-0.21,3.6,Yes,No,In Stock,North America,20.59
+P0182,Apparel,225.19,441.0,225,-0.03,3.8,Yes,No,In Stock,South America,19.76
+P0183,Home Appliances,48.26,414.99,982,-0.96,4.0,Yes,No,In Stock,Europe,46.71
+P0184,Electronics,24.42,87.55,134,-1.59,3.9,No,No,Out of Stock,Asia,43.1
+P0185,Electronics,247.48,453.58,750,-1.6,2.1,No,Yes,Out of Stock,Africa,40.4
+P0186,Home Appliances,275.55,319.97,671,-1.54,4.7,No,No,In Stock,South America,44.34
+P0187,Electronics,201.05,268.47,19,-1.55,4.4,No,No,Out of Stock,Africa,33.28
+P0188,Grocery,205.78,384.81,988,-1.11,3.8,Yes,Yes,In Stock,Africa,41.44
+P0189,Grocery,418.28,277.12,902,-1.86,1.8,No,No,Out of Stock,Europe,14.15
+P0190,Grocery,467.2,202.95,527,-1.84,2.7,No,No,In Stock,North America,18.44
+P0191,Apparel,261.69,131.09,238,-1.94,2.1,Yes,No,Out of Stock,Asia,47.56
+P0192,Books,14.41,369.1,335,-1.1,2.8,No,No,In Stock,Asia,17.02
+P0193,Electronics,66.84,19.77,378,-0.53,2.3,Yes,No,In Stock,Asia,6.84
+P0194,Grocery,428.31,470.42,248,-1.98,3.1,Yes,No,In Stock,Europe,21.99
+P0195,Apparel,13.23,106.41,549,-1.14,2.0,Yes,No,In Stock,North America,49.98
+P0196,Home Appliances,166.7,115.63,478,-1.58,3.4,No,No,In Stock,Europe,8.95
+P0197,Books,82.63,252.7,498,-1.32,2.4,No,No,Out of Stock,North America,10.72
+P0198,Books,407.42,111.35,282,-0.74,4.8,Yes,No,In Stock,Europe,20.14
+P0199,Grocery,124.55,315.03,967,-1.8,4.9,No,Yes,Out of Stock,Africa,17.5
+P0200,Home Appliances,434.6,290.66,274,-0.16,3.3,Yes,No,In Stock,Europe,33.35
+P0201,Apparel,274.82,351.25,522,-0.08,4.5,Yes,No,In Stock,North America,47.62
+P0202,Electronics,258.93,356.13,491,-0.45,3.0,No,No,In Stock,Europe,14.39
+P0203,Home Appliances,62.12,32.95,711,-0.5,4.5,No,No,In Stock,Europe,15.23
+P0204,Home Appliances,270.66,83.78,17,-0.92,3.0,Yes,No,Out of Stock,South America,45.98
+P0205,Home Appliances,97.18,461.58,220,-1.96,1.8,Yes,Yes,Out of Stock,Europe,41.91
+P0206,Books,394.72,422.92,368,-1.12,3.5,No,Yes,In Stock,Asia,14.52
+P0207,Apparel,80.17,465.0,658,-1.68,1.6,No,No,Out of Stock,Africa,24.9
+P0208,Grocery,10.77,96.57,239,-0.2,1.6,Yes,No,Out of Stock,Asia,47.32
+P0209,Electronics,271.52,345.63,791,-1.65,4.0,No,Yes,In Stock,North America,8.75
+P0210,Books,54.69,70.19,43,-0.9,4.8,Yes,Yes,In Stock,North America,27.52
+P0211,Apparel,434.5,172.29,9,-1.66,1.6,Yes,No,In Stock,South America,40.02
+P0212,Home Appliances,19.96,14.53,767,-1.82,1.6,No,Yes,In Stock,South America,48.84
+P0213,Books,163.52,332.39,359,-1.01,3.4,No,Yes,Out of Stock,Europe,30.73
+P0214,Grocery,177.18,313.03,967,-0.19,2.2,Yes,No,Out of Stock,Africa,18.78
+P0215,Books,244.71,148.63,673,-1.1,4.0,No,Yes,Out of Stock,South America,19.87
+P0216,Home Appliances,479.02,173.29,594,-0.58,2.9,No,Yes,Out of Stock,Asia,49.39
+P0217,Grocery,255.53,402.13,620,-0.4,2.9,Yes,Yes,Out of Stock,North America,7.74
+P0218,Grocery,495.24,335.74,576,-1.05,4.3,Yes,Yes,In Stock,South America,6.65
+P0219,Home Appliances,216.38,439.66,812,-0.31,2.9,No,No,In Stock,Africa,28.04
+P0220,Electronics,361.1,199.57,380,-1.09,1.2,No,Yes,Out of Stock,Europe,7.12
+P0221,Apparel,452.63,324.98,300,-1.47,1.5,No,Yes,Out of Stock,Asia,15.1
+P0222,Grocery,127.06,70.1,131,-0.06,4.5,Yes,Yes,In Stock,Asia,17.57
+P0223,Books,115.83,309.93,991,-0.78,2.2,No,No,In Stock,Asia,48.49
+P0224,Electronics,367.78,302.95,954,-0.47,1.5,No,Yes,In Stock,Africa,36.46
+P0225,Books,337.95,295.92,70,-0.64,4.0,Yes,No,In Stock,North America,46.17
+P0226,Books,143.84,176.83,281,-1.01,3.5,No,Yes,Out of Stock,South America,42.58
+P0227,Grocery,172.42,191.29,996,-1.91,4.1,No,Yes,In Stock,Europe,22.49
+P0228,Home Appliances,141.83,27.16,526,-0.59,2.3,Yes,Yes,In Stock,Africa,44.21
+P0229,Apparel,311.94,388.61,949,-1.44,3.5,No,Yes,Out of Stock,Europe,27.05
+P0230,Electronics,107.27,63.73,340,-1.4,3.2,No,Yes,In Stock,Europe,24.39
+P0231,Grocery,167.58,337.14,200,-1.57,1.6,No,No,Out of Stock,Europe,9.53
+P0232,Apparel,133.48,5.19,849,-1.98,4.5,Yes,Yes,Out of Stock,North America,45.87
+P0233,Books,197.83,104.64,690,-0.35,3.6,No,No,Out of Stock,Asia,35.01
+P0234,Apparel,320.22,81.52,520,-0.35,4.1,No,Yes,Out of Stock,North America,47.59
+P0235,Books,212.64,341.22,211,-1.33,3.4,No,No,Out of Stock,North America,30.63
+P0236,Grocery,391.84,358.55,113,-0.64,2.8,Yes,No,In Stock,Europe,39.54
+P0237,Grocery,281.75,180.86,648,-1.1,2.6,No,No,In Stock,South America,23.55
+P0238,Grocery,130.3,497.69,245,-0.79,3.3,No,Yes,In Stock,North America,35.12
+P0239,Apparel,75.48,248.27,74,-0.85,2.4,Yes,No,Out of Stock,South America,6.95
+P0240,Books,48.18,102.7,288,-0.92,1.4,Yes,No,Out of Stock,Asia,8.4
+P0241,Apparel,487.97,470.44,878,-1.03,1.2,No,No,Out of Stock,Europe,20.43
+P0242,Home Appliances,293.06,138.78,663,-1.51,2.6,No,No,In Stock,Europe,23.98
+P0243,Apparel,245.7,365.88,386,-0.41,5.0,No,Yes,Out of Stock,North America,44.42
+P0244,Home Appliances,265.84,172.44,963,-1.27,1.5,Yes,No,In Stock,North America,46.09
+P0245,Grocery,224.93,228.3,226,-1.34,4.6,No,No,Out of Stock,South America,40.35
+P0246,Apparel,59.85,226.93,819,-0.74,3.4,No,Yes,Out of Stock,North America,19.8
+P0247,Electronics,30.99,120.15,192,-0.02,3.6,No,No,In Stock,North America,49.67
+P0248,Apparel,430.0,367.53,677,-1.0,2.2,Yes,No,Out of Stock,Africa,44.06
+P0249,Home Appliances,490.11,26.0,680,-1.79,1.6,No,No,Out of Stock,Africa,21.72
+P0250,Grocery,246.73,252.45,457,-1.75,3.7,No,Yes,Out of Stock,South America,11.84
+P0251,Grocery,89.92,118.14,92,-0.18,2.5,Yes,Yes,In Stock,Asia,14.96
+P0252,Grocery,54.35,411.18,64,-1.85,2.3,Yes,No,In Stock,South America,45.68
+P0253,Books,120.47,438.15,785,-1.97,2.7,Yes,No,In Stock,Asia,25.01
+P0254,Apparel,398.03,79.52,609,-1.78,2.7,Yes,Yes,In Stock,Africa,33.01
+P0255,Electronics,144.3,406.02,646,-0.01,3.4,No,Yes,In Stock,North America,28.37
+P0256,Grocery,114.03,388.22,439,-0.11,4.5,Yes,Yes,Out of Stock,Asia,42.05
+P0257,Home Appliances,173.25,6.56,994,-1.41,4.5,No,Yes,In Stock,South America,36.34
+P0258,Apparel,385.09,497.37,374,-0.98,2.0,No,No,Out of Stock,North America,23.67
+P0259,Grocery,141.19,21.17,133,-0.32,3.5,Yes,Yes,Out of Stock,Africa,16.32
+P0260,Apparel,158.08,303.5,696,-0.34,3.9,Yes,No,Out of Stock,South America,42.26
+P0261,Home Appliances,402.22,405.63,320,-1.16,2.5,No,Yes,Out of Stock,South America,25.65
+P0262,Electronics,206.55,256.05,38,-1.29,4.2,No,No,Out of Stock,South America,20.63
+P0263,Grocery,108.82,437.49,338,-0.04,4.4,No,Yes,In Stock,Asia,29.65
+P0264,Books,88.7,128.81,23,-1.02,3.3,No,No,In Stock,Asia,18.41
+P0265,Apparel,88.78,112.73,534,-1.05,2.4,No,Yes,Out of Stock,Africa,46.2
+P0266,Home Appliances,171.34,37.46,782,-0.86,2.8,Yes,Yes,Out of Stock,North America,41.35
+P0267,Home Appliances,128.64,126.08,969,-0.07,4.2,Yes,Yes,In Stock,South America,23.07
+P0268,Apparel,489.99,79.72,284,-0.76,1.9,No,Yes,In Stock,North America,28.31
+P0269,Apparel,427.06,462.43,38,-1.84,4.5,Yes,No,Out of Stock,Europe,48.87
+P0270,Apparel,94.02,91.8,21,-0.16,2.8,Yes,Yes,Out of Stock,South America,26.51
+P0271,Grocery,94.21,364.77,465,-0.3,2.6,Yes,No,Out of Stock,Africa,45.8
+P0272,Apparel,108.59,239.72,658,-0.67,3.5,Yes,No,Out of Stock,North America,42.65
+P0273,Home Appliances,59.78,296.92,281,-1.03,3.7,Yes,Yes,Out of Stock,Africa,24.24
+P0274,Grocery,275.32,125.26,759,-1.01,3.3,Yes,Yes,Out of Stock,North America,38.2
+P0275,Home Appliances,195.42,406.25,561,-0.04,1.4,Yes,No,Out of Stock,Asia,16.6
+P0276,Grocery,256.78,164.84,199,-1.75,2.4,Yes,Yes,Out of Stock,Asia,26.03
+P0277,Grocery,17.19,440.41,741,-1.76,1.4,No,Yes,Out of Stock,North America,11.15
+P0278,Apparel,380.61,414.47,728,-1.72,3.0,No,No,Out of Stock,South America,21.44
+P0279,Books,454.72,16.33,125,-0.07,3.6,Yes,No,In Stock,Africa,17.82
+P0280,Apparel,173.83,83.87,508,-1.14,1.4,Yes,No,In Stock,Asia,23.87
+P0281,Home Appliances,246.19,367.17,224,-1.54,1.3,Yes,No,Out of Stock,Africa,6.72
+P0282,Books,483.08,101.77,588,-1.59,1.5,No,Yes,In Stock,North America,22.21
+P0283,Grocery,101.25,206.36,505,-1.0,2.1,Yes,No,Out of Stock,Europe,20.27
+P0284,Grocery,106.28,419.62,440,-1.84,2.4,No,No,Out of Stock,Asia,38.04
+P0285,Electronics,79.0,211.24,682,-0.75,1.5,Yes,Yes,In Stock,Europe,25.21
+P0286,Grocery,31.74,308.51,32,-0.81,3.3,No,Yes,In Stock,Asia,47.58
+P0287,Home Appliances,62.33,461.05,807,-0.87,2.8,No,No,Out of Stock,Asia,18.7
+P0288,Electronics,435.26,83.92,300,-0.41,2.7,No,Yes,In Stock,Asia,21.96
+P0289,Grocery,139.08,422.49,205,-0.26,4.6,Yes,Yes,Out of Stock,Africa,43.8
+P0290,Home Appliances,21.04,434.25,491,-0.22,2.0,No,No,In Stock,Africa,22.7
+P0291,Home Appliances,231.14,287.75,282,-1.88,2.6,Yes,Yes,In Stock,Africa,36.53
+P0292,Books,58.57,318.99,190,-1.21,1.6,No,Yes,Out of Stock,Europe,5.55
+P0293,Home Appliances,400.56,283.0,988,-0.62,2.8,No,Yes,In Stock,South America,46.69
+P0294,Apparel,263.66,285.77,642,-0.51,4.9,Yes,No,In Stock,Europe,12.4
+P0295,Grocery,354.19,262.24,72,-1.63,4.5,No,No,In Stock,Africa,49.67
+P0296,Books,471.05,390.58,207,-1.54,3.3,No,Yes,In Stock,South America,25.68
+P0297,Books,486.83,442.23,486,-1.34,1.4,No,Yes,Out of Stock,South America,8.67
+P0298,Electronics,376.85,123.32,330,-1.5,3.7,Yes,Yes,Out of Stock,Europe,33.68
+P0299,Electronics,457.11,257.91,998,-0.71,2.8,Yes,Yes,Out of Stock,South America,8.02
+P0300,Grocery,161.86,296.23,859,-1.65,2.0,Yes,Yes,Out of Stock,Europe,40.07
+P0301,Books,175.38,94.95,157,-0.3,2.5,Yes,Yes,In Stock,South America,43.01
+P0302,Books,100.38,467.52,908,-1.45,2.3,No,No,Out of Stock,Europe,42.36
+P0303,Home Appliances,365.56,374.12,427,-1.57,1.7,Yes,Yes,In Stock,North America,12.84
+P0304,Books,198.63,42.37,922,-1.73,1.0,Yes,No,In Stock,North America,42.4
+P0305,Home Appliances,426.78,83.95,168,-0.02,3.8,No,Yes,Out of Stock,Africa,5.66
+P0306,Home Appliances,333.61,65.03,864,-0.83,4.1,Yes,Yes,In Stock,South America,11.69
+P0307,Home Appliances,18.38,285.43,715,-1.48,4.7,No,Yes,Out of Stock,North America,13.8
+P0308,Grocery,22.68,58.54,355,-0.89,4.6,No,Yes,Out of Stock,South America,12.03
+P0309,Apparel,42.43,215.1,220,-0.71,2.6,No,No,In Stock,North America,22.94
+P0310,Electronics,137.15,149.83,829,-0.43,1.1,No,Yes,In Stock,North America,23.07
+P0311,Home Appliances,164.11,473.59,124,-1.21,3.4,No,Yes,In Stock,South America,25.08
+P0312,Books,379.61,477.31,593,-0.23,2.3,No,No,In Stock,Asia,23.17
+P0313,Books,167.46,440.97,192,-1.45,4.3,Yes,No,In Stock,North America,20.0
+P0314,Electronics,180.52,15.0,728,-1.04,4.8,Yes,Yes,In Stock,Asia,19.13
+P0315,Apparel,453.21,208.29,359,-1.55,4.1,Yes,Yes,Out of Stock,North America,32.09
+P0316,Books,388.94,470.04,142,-0.13,1.9,No,Yes,In Stock,South America,9.36
+P0317,Books,272.11,189.26,719,-0.03,3.3,Yes,No,Out of Stock,Africa,34.78
+P0318,Grocery,265.6,486.77,786,-1.36,3.8,No,Yes,Out of Stock,Africa,30.98
+P0319,Electronics,85.77,135.54,730,-0.98,2.6,Yes,No,In Stock,Europe,46.65
+P0320,Grocery,363.64,273.52,969,-1.17,2.7,Yes,No,Out of Stock,Europe,38.55
+P0321,Home Appliances,137.66,253.02,709,-1.73,3.0,Yes,No,Out of Stock,South America,8.75
+P0322,Home Appliances,50.74,17.68,34,-1.07,2.8,No,Yes,Out of Stock,South America,31.26
+P0323,Electronics,246.91,13.03,338,-0.08,2.4,Yes,No,In Stock,South America,35.57
+P0324,Apparel,347.43,456.46,393,-1.42,2.6,No,Yes,In Stock,South America,22.2
+P0325,Home Appliances,42.08,195.65,203,-1.03,1.7,Yes,Yes,In Stock,Asia,16.07
+P0326,Apparel,131.87,81.39,264,-0.83,2.1,Yes,Yes,In Stock,Africa,27.22
+P0327,Apparel,47.29,18.45,927,-1.24,1.4,Yes,Yes,In Stock,Europe,20.92
+P0328,Grocery,240.39,457.35,815,-1.81,2.0,No,No,In Stock,South America,31.59
+P0329,Electronics,403.5,450.89,357,-0.99,1.8,No,Yes,In Stock,Asia,22.88
+P0330,Apparel,484.52,450.0,511,-0.11,3.2,Yes,No,In Stock,Asia,45.55
+P0331,Grocery,474.75,181.43,885,-1.18,3.4,No,No,Out of Stock,Asia,5.12
+P0332,Home Appliances,197.84,297.89,511,-0.35,3.7,Yes,No,In Stock,South America,27.1
+P0333,Home Appliances,182.63,244.02,811,-1.25,2.6,No,No,Out of Stock,Europe,29.2
+P0334,Grocery,42.89,350.78,800,-0.21,4.6,Yes,No,In Stock,South America,25.77
+P0335,Electronics,138.02,256.26,630,-0.33,1.9,No,Yes,In Stock,South America,9.46
+P0336,Apparel,129.57,68.97,140,-1.53,3.2,Yes,Yes,Out of Stock,Africa,41.9
+P0337,Apparel,470.75,8.04,165,-0.11,1.6,Yes,No,In Stock,South America,8.65
+P0338,Grocery,335.67,195.23,491,-1.43,2.2,No,No,In Stock,North America,16.67
+P0339,Home Appliances,358.57,7.14,800,-0.25,2.2,Yes,No,Out of Stock,North America,5.51
+P0340,Home Appliances,128.61,369.02,540,-0.33,2.5,Yes,No,In Stock,North America,39.12
+P0341,Apparel,326.04,300.82,71,-0.71,3.6,No,Yes,In Stock,Africa,16.63
+P0342,Grocery,346.35,97.38,472,-0.69,1.4,No,Yes,Out of Stock,North America,32.07
+P0343,Home Appliances,173.18,490.13,792,-0.31,1.2,No,Yes,In Stock,Africa,45.14
+P0344,Electronics,246.76,492.91,774,-1.67,2.2,No,Yes,Out of Stock,Europe,27.6
+P0345,Grocery,51.96,103.39,179,-1.36,3.0,No,Yes,Out of Stock,Europe,30.67
+P0346,Home Appliances,290.07,110.72,164,-0.67,3.6,No,Yes,In Stock,South America,34.5
+P0347,Grocery,130.58,166.63,462,-0.51,2.0,No,No,Out of Stock,North America,42.62
+P0348,Books,472.62,391.96,533,-0.68,3.4,Yes,Yes,Out of Stock,Europe,38.31
+P0349,Home Appliances,8.89,443.49,830,-0.13,3.6,Yes,Yes,In Stock,South America,34.34
+P0350,Electronics,444.83,56.47,425,-1.92,1.6,No,No,Out of Stock,North America,10.37
+P0351,Books,180.47,229.77,857,-1.8,3.8,No,No,Out of Stock,Europe,15.42
+P0352,Books,6.37,496.92,464,-0.65,1.4,No,Yes,Out of Stock,Africa,34.84
+P0353,Grocery,96.7,398.97,995,-0.27,4.1,Yes,Yes,In Stock,Africa,8.77
+P0354,Grocery,232.32,107.35,241,-1.47,1.8,Yes,No,Out of Stock,North America,34.57
+P0355,Apparel,340.25,417.08,17,-1.07,1.6,Yes,Yes,Out of Stock,Asia,37.43
+P0356,Apparel,313.86,98.9,437,-1.35,3.8,No,Yes,Out of Stock,Asia,34.37
+P0357,Apparel,15.17,107.14,609,-1.64,4.5,No,Yes,In Stock,Asia,31.32
+P0358,Books,66.27,57.53,110,-1.49,1.9,Yes,No,Out of Stock,North America,29.42
+P0359,Electronics,222.82,390.81,724,-0.46,2.0,Yes,Yes,In Stock,Asia,25.62
+P0360,Books,486.86,211.79,759,-0.85,1.1,No,No,Out of Stock,Africa,23.23
+P0361,Electronics,181.19,411.45,33,-1.67,4.3,No,No,In Stock,North America,37.96
+P0362,Grocery,166.68,397.22,304,-0.67,4.4,No,Yes,Out of Stock,Asia,32.88
+P0363,Apparel,455.43,160.77,392,-0.94,4.5,No,No,Out of Stock,North America,9.55
+P0364,Home Appliances,324.38,496.34,921,-1.69,1.2,Yes,Yes,Out of Stock,South America,17.14
+P0365,Home Appliances,380.01,399.81,538,-1.34,4.0,No,Yes,Out of Stock,South America,43.54
+P0366,Home Appliances,11.3,318.51,330,-1.36,1.6,Yes,No,Out of Stock,North America,8.86
+P0367,Apparel,154.91,195.48,327,-1.45,1.3,No,Yes,In Stock,Africa,35.05
+P0368,Grocery,137.08,255.29,946,-1.81,2.5,Yes,No,In Stock,Europe,22.05
+P0369,Grocery,66.86,371.17,411,-1.73,2.8,Yes,Yes,Out of Stock,Europe,31.47
+P0370,Home Appliances,439.27,330.34,231,-0.67,2.6,Yes,Yes,Out of Stock,Africa,16.39
+P0371,Grocery,48.02,33.87,617,-0.5,2.3,No,No,In Stock,Asia,31.32
+P0372,Apparel,314.86,68.04,95,-0.18,2.5,No,Yes,In Stock,Africa,16.07
+P0373,Books,47.61,37.09,161,-0.86,3.2,Yes,Yes,In Stock,Africa,40.97
+P0374,Grocery,356.39,56.97,255,-1.08,1.9,No,No,In Stock,Europe,5.26
+P0375,Apparel,369.65,376.6,517,-1.96,2.2,No,Yes,In Stock,North America,33.33
+P0376,Books,252.23,474.54,912,-1.43,2.3,No,No,Out of Stock,Asia,20.46
+P0377,Grocery,263.46,68.69,895,-1.76,4.6,Yes,Yes,In Stock,Europe,8.37
+P0378,Grocery,103.7,437.1,392,-1.48,4.4,No,Yes,Out of Stock,Africa,48.23
+P0379,Home Appliances,375.51,17.21,172,-1.64,3.3,Yes,No,In Stock,Africa,25.05
+P0380,Books,215.79,329.08,650,-0.91,2.6,Yes,Yes,In Stock,South America,33.88
+P0381,Books,228.32,68.2,52,-0.06,5.0,No,No,In Stock,Asia,9.09
+P0382,Books,68.6,199.09,614,-1.58,2.5,No,No,Out of Stock,South America,39.79
+P0383,Home Appliances,290.35,329.62,921,-1.9,2.7,No,No,In Stock,North America,21.61
+P0384,Electronics,164.62,140.5,973,-0.06,2.3,Yes,No,In Stock,Europe,26.77
+P0385,Grocery,156.24,71.06,159,-0.06,1.7,No,Yes,Out of Stock,Europe,21.59
+P0386,Home Appliances,378.78,61.22,367,-1.29,4.4,No,Yes,Out of Stock,Asia,7.58
+P0387,Books,70.25,79.94,739,-0.52,4.7,Yes,No,Out of Stock,Asia,24.39
+P0388,Books,145.82,114.52,903,-1.52,2.2,Yes,Yes,Out of Stock,Asia,20.7
+P0389,Home Appliances,368.08,419.53,749,-0.86,3.9,Yes,Yes,In Stock,Africa,40.51
+P0390,Grocery,161.45,415.42,626,-1.67,1.7,Yes,Yes,Out of Stock,North America,21.43
+P0391,Home Appliances,417.32,140.25,346,-0.1,3.0,Yes,Yes,In Stock,South America,30.98
+P0392,Electronics,352.0,314.41,232,-1.85,2.5,No,No,Out of Stock,Europe,17.34
+P0393,Electronics,36.56,260.87,901,-0.45,1.8,Yes,No,Out of Stock,Europe,40.91
+P0394,Books,168.92,363.09,28,-1.07,1.8,Yes,No,Out of Stock,Asia,40.8
+P0395,Home Appliances,82.4,122.53,938,-0.58,2.9,No,Yes,In Stock,Africa,38.23
+P0396,Electronics,149.06,150.14,272,-1.13,5.0,No,Yes,Out of Stock,Asia,22.47
+P0397,Books,317.08,332.6,832,-0.35,4.3,No,No,Out of Stock,South America,20.5
+P0398,Books,12.07,395.44,979,-0.52,2.2,No,Yes,In Stock,Africa,43.27
+P0399,Apparel,367.85,470.57,188,-1.6,4.7,No,No,Out of Stock,South America,9.97
+P0400,Electronics,451.78,190.54,675,-0.76,4.9,No,No,Out of Stock,Africa,49.44
+P0401,Home Appliances,235.12,17.76,319,-0.7,3.9,Yes,No,In Stock,North America,27.5
+P0402,Electronics,206.13,284.47,644,-0.77,2.1,No,Yes,In Stock,Europe,32.04
+P0403,Books,335.6,343.56,785,-0.61,2.8,Yes,No,Out of Stock,North America,26.9
+P0404,Grocery,126.4,270.95,218,-0.28,3.0,No,No,In Stock,Europe,31.55
+P0405,Apparel,368.93,400.39,170,-0.72,1.6,Yes,No,Out of Stock,North America,12.07
+P0406,Apparel,146.0,368.69,559,-1.25,3.6,Yes,Yes,Out of Stock,Asia,29.78
+P0407,Apparel,335.33,140.15,429,-0.52,3.0,No,Yes,Out of Stock,Africa,6.29
+P0408,Electronics,400.75,289.5,78,-1.0,3.9,Yes,Yes,In Stock,Africa,36.1
+P0409,Books,34.22,389.21,199,-1.24,4.0,No,Yes,Out of Stock,North America,25.33
+P0410,Grocery,289.04,353.56,630,-0.4,4.6,Yes,No,In Stock,Africa,19.64
+P0411,Electronics,42.21,31.49,961,-0.87,1.1,Yes,Yes,In Stock,South America,10.81
+P0412,Books,442.77,150.02,50,-0.11,3.2,Yes,Yes,In Stock,Asia,25.45
+P0413,Electronics,104.93,308.07,860,-0.66,2.8,No,No,In Stock,Asia,49.26
+P0414,Grocery,314.85,427.97,688,-0.07,2.1,No,Yes,In Stock,Africa,49.76
+P0415,Apparel,367.93,386.92,588,-1.26,1.2,Yes,No,Out of Stock,Africa,33.84
+P0416,Grocery,438.92,396.44,779,-1.83,3.7,No,No,In Stock,Africa,38.74
+P0417,Home Appliances,122.8,33.93,387,-1.78,3.1,Yes,No,In Stock,South America,40.54
+P0418,Electronics,341.27,234.68,534,-1.24,1.5,No,Yes,Out of Stock,Asia,22.62
+P0419,Home Appliances,330.33,115.86,92,-1.39,1.8,Yes,No,In Stock,Africa,40.09
+P0420,Apparel,248.22,125.44,266,-1.89,1.9,Yes,Yes,In Stock,South America,38.92
+P0421,Books,130.44,179.76,684,-1.93,2.0,Yes,No,In Stock,Africa,24.18
+P0422,Books,54.14,177.71,285,-0.06,2.9,No,No,Out of Stock,North America,29.34
+P0423,Apparel,149.21,68.86,308,-1.02,3.6,Yes,No,Out of Stock,South America,35.31
+P0424,Grocery,390.67,99.63,24,-0.93,3.0,No,Yes,Out of Stock,North America,23.79
+P0425,Books,430.29,62.16,176,-1.77,1.5,No,No,Out of Stock,South America,38.83
+P0426,Apparel,244.83,197.97,84,-0.7,3.1,No,No,Out of Stock,South America,12.72
+P0427,Electronics,488.86,162.42,58,-1.21,2.4,No,No,Out of Stock,Africa,44.41
+P0428,Electronics,64.37,68.29,424,-0.21,4.7,Yes,No,In Stock,Africa,41.7
+P0429,Apparel,210.71,255.23,524,-1.43,4.6,Yes,No,Out of Stock,South America,18.77
+P0430,Apparel,354.68,48.38,128,-1.95,3.4,Yes,Yes,Out of Stock,Europe,27.28
+P0431,Grocery,305.25,268.69,859,-1.57,2.5,No,No,In Stock,Europe,26.92
+P0432,Books,262.11,6.85,258,-0.19,2.0,No,No,In Stock,Europe,36.38
+P0433,Apparel,463.64,143.92,56,-0.46,4.6,Yes,Yes,In Stock,Africa,48.46
+P0434,Electronics,163.46,85.51,758,-1.67,4.7,No,No,In Stock,South America,7.67
+P0435,Home Appliances,175.34,75.18,522,-0.05,1.0,No,No,In Stock,Europe,47.85
+P0436,Electronics,437.8,60.75,333,-1.38,2.8,No,Yes,In Stock,North America,31.77
+P0437,Grocery,288.3,250.88,497,-1.04,3.6,No,Yes,Out of Stock,North America,10.41
+P0438,Apparel,452.64,142.51,197,-0.48,4.1,No,No,Out of Stock,Africa,9.03
+P0439,Grocery,269.54,185.94,945,-1.41,1.8,Yes,No,Out of Stock,Africa,24.81
+P0440,Apparel,344.06,425.26,694,-1.84,1.9,No,No,Out of Stock,Asia,35.18
+P0441,Home Appliances,77.8,99.94,811,-1.37,4.1,Yes,Yes,Out of Stock,Africa,25.6
+P0442,Electronics,46.7,12.34,405,-0.7,1.2,Yes,No,Out of Stock,Europe,37.34
+P0443,Grocery,468.17,370.94,391,-0.4,1.4,Yes,No,In Stock,Europe,37.92
+P0444,Home Appliances,409.66,275.3,124,-0.53,1.3,No,Yes,Out of Stock,Asia,22.34
+P0445,Books,330.26,302.35,323,-0.38,3.6,Yes,Yes,In Stock,Asia,13.75
+P0446,Apparel,31.0,217.05,337,-0.12,2.9,Yes,Yes,Out of Stock,Europe,28.09
+P0447,Grocery,464.1,79.99,337,-1.07,1.2,Yes,Yes,Out of Stock,South America,29.2
+P0448,Grocery,358.64,84.87,949,-0.98,2.1,Yes,Yes,In Stock,South America,7.75
+P0449,Grocery,300.96,434.74,690,-0.43,4.7,Yes,Yes,Out of Stock,North America,25.02
+P0450,Grocery,119.58,299.08,507,-1.37,2.2,Yes,No,Out of Stock,South America,23.68
+P0451,Electronics,366.13,177.65,765,-0.01,2.5,No,No,Out of Stock,Asia,27.47
+P0452,Home Appliances,473.75,344.16,114,-1.86,3.5,No,Yes,Out of Stock,Asia,38.24
+P0453,Electronics,325.11,352.51,703,-0.99,4.7,Yes,No,Out of Stock,Africa,48.9
+P0454,Home Appliances,482.9,109.91,548,-1.41,1.4,Yes,No,Out of Stock,Africa,14.23
+P0455,Home Appliances,229.59,204.81,514,-0.65,2.4,No,No,In Stock,Asia,18.4
+P0456,Grocery,478.64,383.82,874,-0.22,2.7,Yes,Yes,Out of Stock,South America,26.04
+P0457,Electronics,305.08,361.68,6,-0.96,4.4,Yes,No,In Stock,Asia,12.65
+P0458,Books,444.85,298.91,963,-1.04,4.0,No,No,In Stock,Africa,6.46
+P0459,Home Appliances,459.14,494.94,306,-0.5,4.0,No,No,In Stock,South America,33.81
+P0460,Grocery,476.03,360.2,141,-0.5,2.9,Yes,No,Out of Stock,South America,8.38
+P0461,Grocery,387.01,83.55,120,-0.65,2.3,Yes,Yes,Out of Stock,Africa,8.89
+P0462,Grocery,439.98,287.8,249,-1.6,2.2,Yes,Yes,In Stock,Africa,26.85
+P0463,Home Appliances,109.14,154.34,451,-0.26,4.1,Yes,No,Out of Stock,Africa,24.62
+P0464,Electronics,151.33,474.78,577,-0.7,3.2,No,Yes,In Stock,Africa,15.22
+P0465,Apparel,257.2,388.86,359,-1.21,2.3,Yes,Yes,Out of Stock,North America,9.77
+P0466,Home Appliances,222.3,54.03,701,-1.74,3.7,No,Yes,In Stock,Europe,27.8
+P0467,Apparel,26.8,101.33,701,-0.01,4.8,Yes,Yes,In Stock,North America,48.82
+P0468,Home Appliances,182.24,113.55,628,-0.8,3.3,Yes,No,Out of Stock,South America,11.05
+P0469,Books,296.57,177.33,484,-0.84,3.8,Yes,Yes,In Stock,South America,35.7
+P0470,Home Appliances,375.2,190.77,147,-0.61,1.6,No,No,In Stock,South America,10.55
+P0471,Electronics,323.98,484.94,487,-1.45,2.4,No,Yes,In Stock,Africa,18.46
+P0472,Books,388.23,341.56,832,-0.98,4.1,Yes,No,Out of Stock,Europe,36.17
+P0473,Grocery,140.52,115.08,669,-0.76,4.4,No,Yes,Out of Stock,South America,24.38
+P0474,Electronics,347.45,291.79,606,-1.65,4.3,Yes,Yes,In Stock,North America,14.85
+P0475,Electronics,143.19,311.43,95,-0.27,3.6,No,No,In Stock,Europe,35.9
+P0476,Electronics,470.53,89.59,432,-1.99,2.2,No,Yes,In Stock,Europe,31.94
+P0477,Apparel,477.84,112.02,188,-0.32,1.3,No,Yes,In Stock,South America,44.53
+P0478,Home Appliances,351.72,389.81,188,-1.45,1.2,Yes,Yes,Out of Stock,South America,15.12
+P0479,Books,234.06,448.65,132,-0.67,4.7,Yes,No,In Stock,Asia,37.07
+P0480,Home Appliances,192.59,478.52,138,-1.13,3.3,No,No,In Stock,South America,33.61
+P0481,Books,259.83,205.42,933,-0.66,1.9,Yes,No,Out of Stock,South America,15.84
+P0482,Home Appliances,424.25,156.2,200,-1.48,2.2,No,Yes,Out of Stock,Europe,34.05
+P0483,Electronics,422.19,97.28,369,-0.14,3.5,Yes,No,Out of Stock,North America,15.67
+P0484,Electronics,499.77,5.31,804,-1.68,1.9,No,No,In Stock,Europe,19.58
+P0485,Apparel,61.21,53.18,526,-1.65,2.3,No,Yes,In Stock,South America,10.96
+P0486,Books,214.91,98.43,94,-0.56,1.3,No,Yes,In Stock,Africa,9.44
+P0487,Grocery,158.75,479.48,534,-1.55,3.0,No,No,Out of Stock,South America,6.96
+P0488,Home Appliances,60.66,429.33,600,-1.07,4.7,Yes,No,In Stock,Europe,44.0
+P0489,Apparel,391.41,157.79,674,-1.8,1.9,No,No,In Stock,North America,42.66
+P0490,Grocery,113.82,374.88,68,-0.98,3.1,Yes,No,In Stock,South America,13.4
+P0491,Home Appliances,149.12,462.25,389,-1.34,4.9,No,Yes,In Stock,Europe,7.58
+P0492,Apparel,309.93,242.93,565,-0.64,2.0,Yes,No,In Stock,Asia,41.85
+P0493,Grocery,341.27,353.9,734,-1.51,2.6,Yes,Yes,In Stock,North America,20.73
+P0494,Home Appliances,112.89,470.53,262,-1.5,5.0,Yes,No,In Stock,North America,33.69
+P0495,Electronics,94.88,93.07,616,-0.27,4.7,Yes,Yes,Out of Stock,Asia,30.1
+P0496,Grocery,50.95,368.75,340,-0.15,3.9,Yes,Yes,In Stock,Africa,41.17
+P0497,Apparel,78.87,55.73,849,-0.95,1.1,No,Yes,In Stock,North America,38.62
+P0498,Grocery,163.02,250.94,404,-0.46,3.6,No,Yes,Out of Stock,Asia,6.01
+P0499,Electronics,425.3,83.93,105,-0.5,2.7,No,Yes,Out of Stock,North America,12.82
+P0500,Books,333.41,471.68,233,-1.03,2.2,No,Yes,Out of Stock,Europe,6.65
